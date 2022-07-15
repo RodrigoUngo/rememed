@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">RemeMed</string>
+    <string name="userName">Nombre de usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="log_in">Iniciar Sesión</string>
+    <string name="register">Registrarse</string>
+    <string name="i_forgot_my_password">Olvidé mi contraseña</string>
+    <string name="add_manager">Agregar encargado</string>
+    <string name="add_new_manager">Agregar nuevo encargado</string>
+    <string name="manager_name">Nombre del encargado</string>
+    <string name="email">Correo Electrónico</string>
+    <string name="phone_number">Número de teléfono</string>
+    <string name="add">Agregar</string>
+    <string name="add_new_med_manager">Agregar nuevo médico</string>
+    <string name="hospital_clinic">Hospital/Clínica</string>
+    <string name="med_name">Nombre del médico</string>
+    <string name="confirm_password">Confirmar contraseña</string>
+    <string name="name">Nombre</string>
+    <string name="lastname">Apellido</string>
+    <string name="add_new_symptom">Agregar síntoma</string>
+    <string name="add_prescription">Agregar receta médica</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+    <string name="hours">Horarios</string>
+    <string name="with_food">Con comida</string>
+    <string name="days">Dias</string>
+    <string name="dose">Dosis</string>
+    <string name="medicament">Médicamento</string>
+    <string name="times_per_week">Veces a la semana</string>
+    <string name="starting_day">Empezando en</string>
+    <string name="time_interval">¿Cada cuantas horas?</string>
+    <string name="starting_time">Empezando a las:</string>
+    <string name="choose_time">Selecciona la hora</string>
+    <string name="coming_soon">Próximamente...</string>
+    <string-array name="DaysOfWeek">
+        <item name="sunday">Domingo</item>
+        <item name="saturday">Sábado</item>
+        <item name="Friday">Viernes</item>
+        <item name="thursday">Jueves</item>
+        <item name="wednesday">Miercoles</item>
+        <item name="tuesday">Martes</item>
+        <item name="monday">Lunes</item>
+    </string-array>
+    <string-array name="perWeek">
+        <item name="everyday">Todos los dias</item>
+        <item name="1day">Una vez por semana</item>
+        <item name="every2day">Cada dos dias</item>
+        <item name="every3day">Cada tres dias</item>
+    </string-array>
+</resources>
